@@ -1,0 +1,23 @@
+port: 3999
+
+eth-api: http://localhost:3000
+eth-testnet-available: true
+eth-testnet: ropsten
+
+atom-api: http://localhost:3002
+atom-testnet-available: false
+atom-testnet: gaia-13006
+
+btc-api: http://localhost:3004
+btc-testnet-available: true
+btc-testnet: testnet3
+
+iotex-api: http://localhost:3006
+iotex-testnet-available: true
+iotex-testnet: testnet
+
+apikey-ip: http://localhost
+apikey-port: 3888
+
+address-whitelist-ip: http://localhost
+address-whitelist-port: 3889
